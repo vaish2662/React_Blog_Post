@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "Post_Title": "What is State ??",
+      "Post_Body": "It stores a component's dynamic data.",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "Post_Title": "What is Props?",
+      "Post_Body": "it passes data to another component."
+    },
+    {
+      "id": "4",
+      "Post_Title": "What are hooks?",
+      "Post_Body": "It is a special function that allows to use states"
+    },
+    {
+      "id": "5",
+      "Post_Title": "What is react fragment?",
+      "Post_Body": "It allows to group multiple child element without adding an extra 3 dom."
+    }
+  ]
+}
