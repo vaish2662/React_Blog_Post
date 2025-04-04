@@ -1,12 +1,38 @@
-# React + Vite
+# React 
+## 💡 What it does:
+ 🔍 Displays all blog posts
+ ➕ Create a new post
+ 📝 Edit existing posts
+ ❌ Delete posts easily
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🛠️ Tech & Tools Used:
+- React
+- JSON Server (db.json) as a fake REST API
+- Axios for API requests
+- React Icons for adding cool icons
+- Bootstrap for basic styling
+  
+## 📦 Installation & Setup:
+   Here’s a quick rundown of the setup if you want to try building something similar:
+   ### Install dependencies
+    - npm install axios
+    - npm install react-icons
+    - npm install react-bootstrap bootstrap
+    - npm install -g json-server
+    - npm install react-router-dom
 
-Currently, two official plugins are available:
+   ### To run JSON Server (on port 5000)
+    - json-server --watch db.json --port 5000
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+   ### To start the React app (with Vite or similar setup)
+    - npm run dev
 
-## Expanding the ESLint configuration
+## This project gave me practical experience with:
+- React hooks like useState and useEffect
+- Basic CRUD operations
+- React Router for navigating between pages
+- Using fetch to interact with a fake REST API
+- Managing form inputs and component state
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Backend: 
+- JSON Server (db.json) — super helpful for front-end devs!
