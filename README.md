@@ -36,3 +36,13 @@
 
 ## 📦 Backend: 
 - JSON Server (db.json) — super helpful for front-end devs!
+
+## 📸 Images:
+  ![image](https://github.com/user-attachments/assets/e3042bdc-1c0a-4908-ab8d-b91166330abc)
+  ![image](https://github.com/user-attachments/assets/7e462b73-318b-48e7-b381-bc760c39890a)
+  ![image](https://github.com/user-attachments/assets/b44c99d6-de70-470c-a1c2-7b3f10348369)
+  ![image](https://github.com/user-attachments/assets/8a7aac6b-3d62-4553-9f3a-a35e9f1b1c35)
+
+
+
+
